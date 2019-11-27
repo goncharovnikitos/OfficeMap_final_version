@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #0A0D24;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+body {
+  background-color: #1B1D2A;
+}
+.body3 {
+  display: flex;
+  width: 100%;
+}
+.map {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+}
+
+.peoples {
+  width: 30%;
+  background-color: #192B33;
+  color: white;
+}
+.peoples li {
+  list-style-type: none;
+}
+
+.active {
+  background-color: red;
+}
+
+.map svg circle:hover {
+  fill: red;
+}
+
+.card {
+  width: 30%;
+  background-color: #192B33;
+  color: white;
+}
+.card li {
+  list-style-type: none;
+}
+
+.Menu ul {
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 5vmin
+}
+.Menu a {
+  text-decoration: none;
+  color: white;
+}
+.Menu a:hover {
+  fill: red;
+}
+

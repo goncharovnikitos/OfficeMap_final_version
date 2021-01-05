@@ -13,7 +13,7 @@
     "url": "https://github.com/goncharovnikitos"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.12.3",
     "classnames": "^2.2.3",
     "cors": "*",
